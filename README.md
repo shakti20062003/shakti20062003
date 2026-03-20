@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am currently pursuing B.Tech at NIT Rourkela.<br>💻 I am a full stack developer with experience in building web applications.<br>🚀 I am actively looking for Software Engineering roles where I can apply my development and problem-solving skills.<br>🤖 I am currently learning Generative AI and working on AI-powered applications.<br>📊 I enjoy building projects involving data analysis and real-world problem solving.
+🎓 I am currently pursuing B.Tech at NIT Rourkela.<br>💻 I am a full stack developer with experience in building web applications.<br>🚀 I am actively looking for Software Engineering roles where I can apply my development and problem-solving skills.<br>🤖 I am actively learning Generative AI, Artificial Intelligence, and Machine Learning, and building AI-powered applications.<br>📊 I enjoy building projects involving data analysis and real-world problem solving.
 
 
 ## 🌐 Socials:
